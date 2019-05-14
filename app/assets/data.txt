@@ -1,0 +1,6 @@
+{
+  "device": {
+      "ProductId": 29987,
+      "VendorId": 6790
+  }
+}
